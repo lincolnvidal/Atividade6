@@ -1,7 +1,5 @@
 # README - Atividade6
 
-### Aplicação e exemplos de formatação no arquivo README.md
-
 ## Descrição da atividade:
  
 ![Atividade 6](https://github.com/lincolnvidal/Atividade6/blob/main/Atividade%206.png)
