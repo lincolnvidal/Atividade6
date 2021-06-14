@@ -1,1 +1,1 @@
-console.log ('This is a line 1')
+console.log ('This is a line')
