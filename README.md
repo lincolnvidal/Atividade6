@@ -1,4 +1,4 @@
-## Atividade 6
+### Atividade 6
 
 6. Digitar o comando: ```git commit -m "commit um" para o primeiro commit```
 7. Adicionar um arquivo com o nome: arquivo3.js
